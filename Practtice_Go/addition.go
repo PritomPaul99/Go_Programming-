@@ -1,15 +1,21 @@
 package main
 
 import (
+	// "debug/elf"
 	"fmt"
 )
 
 func main() {
-	// fmt.Println("Helio, World")
-	var a = 5
-	var b = 8
+	fmt.Println("")
+	// var a = 5
+	// var b = 8
 
-	var c = a + b
+	// var c = a + b
 
-	fmt.Println(c)
+	// fmt.Println("If Else Statement")
+
+	// if 5 > 7 {
+	// 	fmt.Println("% is greater than 7, false!")		
+	// }
+	// el
 }
